@@ -1,0 +1,12 @@
+{
+  "name": "hackathons-2026",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Lightning Hackathons 2026 — La Crypta",
+  "scripts": {
+    "test": "vitest run"
+  },
+  "devDependencies": {
+    "vitest": "^3.1.1"
+  }
+}
